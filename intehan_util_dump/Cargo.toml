@@ -1,0 +1,10 @@
+[package]
+name = "intehan_util_dump"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "intehan_util_dump"
+path = "src/dump.rs"
+
+[dependencies]
