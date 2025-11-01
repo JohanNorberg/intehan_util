@@ -1,0 +1,8 @@
+[package]
+name = "intehan_util_testbed"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[dependencies]
+intehan_util_dump = { path = "../intehan_util_dump", version = "0.1.0"}
