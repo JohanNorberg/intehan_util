@@ -4,11 +4,11 @@ version = 4
 
 [[package]]
 name = "intehan_util_dump"
-version = "0.1.1"
+version = "0.1.2"
 
 [[package]]
 name = "intehan_util_testbed"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "intehan_util_dump",
 ]
