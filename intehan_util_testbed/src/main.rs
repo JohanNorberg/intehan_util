@@ -1,3 +1,4 @@
+#![allow(clippy::disallowed_names)]
 use intehan_util_dump::dump;
 
 fn main() {
