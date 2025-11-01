@@ -1,7 +1,15 @@
 [package]
 name = "intehan_util_dump"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+description = "Convenience macros"
+repository = "https://github.com/JohanNorberg/intehan_util"
+documentation = "https://github.com/JohanNorberg/intehan_util/blob/main/intehan_util_dump/README.md"
+license = "MIT OR Apache-2.0"
+authors = ["Johan Norberg <johan.norberg@jepono.se>"]
+keywords = ["intehan_util_dump", "dump" ]
+categories = ["development-tools::debugging"]
+readme = "README.md"
 
 [lib]
 name = "intehan_util_dump"
