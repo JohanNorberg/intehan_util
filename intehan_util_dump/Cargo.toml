@@ -1,6 +1,6 @@
 [package]
 name = "intehan_util_dump"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Convenience macros"
 repository = "https://github.com/JohanNorberg/intehan_util"
